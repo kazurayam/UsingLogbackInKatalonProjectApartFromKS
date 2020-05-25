@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC2_java.util.logging</name>
+   <name>TC2_Logback_direct</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>803ff675-b8d2-4fbf-b5d3-fe173d1267bf</testCaseGuid>
+   <testCaseGuid>c1ee3439-4bfc-47f3-8a82-91e5cab90595</testCaseGuid>
 </TestCaseEntity>

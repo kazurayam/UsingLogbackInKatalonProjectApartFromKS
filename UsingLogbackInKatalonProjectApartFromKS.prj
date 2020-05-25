@@ -6,6 +6,7 @@
    <UUID>9942a2e2-bbd0-4abd-88b6-5fd7985f6afa</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/kazuakiurayama/katalon-workspace/UsingLogbackInKatalonProjectApartFromKS/UsingLogbackInKatalonProjectApartFromKS.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
